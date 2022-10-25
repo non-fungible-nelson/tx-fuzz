@@ -5,16 +5,10 @@ go 1.16
 require (
 	github.com/MariusVanDerWijden/FuzzyVM v0.0.0-20220901111237-4348e62e228d
 	github.com/VictoriaMetrics/fastcache v1.12.0 // indirect
-	github.com/aristanetworks/goarista v0.0.0-20200805130819-fd197cf57d96 // indirect
-	github.com/btcsuite/btcd v0.23.2 // indirect
-	github.com/btcsuite/btcutil v1.0.2 // indirect
 	github.com/ethereum/go-ethereum v1.10.25
-	github.com/gdamore/tcell v1.3.0 // indirect
 	github.com/herumi/bls-eth-go-binary v1.28.1 // indirect
 	github.com/holiman/goevmlab v0.0.0-20220902091028-02faf03e18e4
 	github.com/holiman/uint256 v1.2.1
-	github.com/huin/goupnp v1.0.3 // indirect
-	github.com/korovkin/limiter v0.0.0-20221015170604-22eb1ceceddc // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/protolambda/go-kzg v0.0.0-20220318042159-d646366d060f // indirect
 	github.com/protolambda/ztyp v0.2.2
